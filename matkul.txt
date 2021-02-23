@@ -6,3 +6,4 @@ List matkul yang diambil pada semester 2:
 - StatProb
 - MPKT
 - POK
+- Alin
