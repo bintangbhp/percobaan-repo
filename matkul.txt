@@ -1,0 +1,8 @@
+List matkul yang diambil pada semester 2:
+
+- Kalkulus 2
+- MatDis 2
+- DDP 2
+- StatProb
+- MPKT
+- POK
